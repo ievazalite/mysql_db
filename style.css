@@ -1,0 +1,33 @@
+/** @format */
+body {
+    background: rgb(82, 82, 82);
+  }
+  
+  .container {
+    width: 500px;
+    margin: 50px auto;
+    padding: 0;
+  }
+  
+  .container form {
+    display: flex;
+    background: rgba(135, 206, 250, 0.479);
+    padding: 20px;
+  
+    flex-direction: column;
+  }
+  
+  .container button {
+    margin-top: 20px;
+  }
+  
+  table,
+  th,
+  td{
+    border: 1px solid black;
+  }
+
+.updatenotice{
+    text-align: center;
+}
+
